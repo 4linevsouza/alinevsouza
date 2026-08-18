@@ -18,8 +18,6 @@ Welcome to my GitHub!
 ## My Stats.
 
 <div>
-  <a href="https://github.com/alinevsouza">
-  <img height="180em" src="https://github-readme-stats-one-kohl-89.vercel.app/api?username=alinevsouza&count_private=true&theme=synthwave&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats-one-kohl-89.vercel.app/api/top-langs/?username=alinevsouza&langs_count=16&count_private=true&theme=synthwave"/>
 </div>
 

@@ -7,7 +7,6 @@ Welcome to my GitHub!
 
 - 💻 Building full-stack skills with `React.js` and `Node.js`.
 - 🎶 Coding with music to keep the ideas flowing.
-- 🏖️ Finding my balance between screens and sea breeze.
   
 <div align="center">
   <a href="https://www.instagram.com/ei_alinesz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-d75189?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -18,7 +17,7 @@ Welcome to my GitHub!
 ## My Stats.
 
 <div>
-  <img height="180em" src="https://github-readme-stats-one-kohl-89.vercel.app/api/top-langs/?username=alinevsouza&langs_count=16&count_private=true&theme=synthwave"/>
+  <img height="250em" src="https://github-readme-stats-one-kohl-89.vercel.app/api/top-langs/?username=alinevsouza&langs_count=16&count_private=true&theme=synthwave"/>
 </div>
 
 ##
